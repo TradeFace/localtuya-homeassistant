@@ -1,3 +1,6 @@
+_I'm no longer working with localtuya-homeassistant. Please take a look at https://github.com/TradeFace/tuyamqtt which IMO is a better solution._
+
+
 # localtuya-homeassistant
 
 Local handling for Tuya Devices under Home-Assistant and Hassio, getting parameters from them (as Power Meters: Voltage, Current, Watt)
